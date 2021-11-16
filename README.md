@@ -1,6 +1,6 @@
-### Hi there, I'm Musa  👋 👋🏿
+### Hi there, I'm Musa  👋
 
-### I'm a student at Computer Science student at Florida International University!
+### I'm a Computer Science student at Florida International University! 🌴☀️
 
 - 📱 I'm current working on an Android App
 - 📖 Currently learning: Android Mobile development
