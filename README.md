@@ -59,5 +59,5 @@
 
 <br />
 
-[linkedin]: www.linkedin.com/in/musa-j211
+[linkedin]: https://www.linkedin.com/in/musa-j211
 
