@@ -33,7 +33,6 @@
 <br />
 <br />
 
-
 [linkedin]: www.linkedin.com/in/musa-j211
 [webdevplaylist]:
 [jsplaylist]:
