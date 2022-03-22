@@ -4,9 +4,9 @@
 
 ### I'm a Computer Science student at Florida International University! 🌴☀️
 
-- 📱 I'm current working on an Android App
-- 📖 Currently learning: Android Mobile development
-- ✍️ 2022 Goals: Learn IOS development
+- 📱 I'm currently working on an Android App
+- 📖 Android Mobile development
+- ✍️ 2022 Goals: Learning Kotlin
 - 🗣️ Fun fact: I speak two languages; **English and Kreyol Ayisyen**
 
 ### Connect with me:
